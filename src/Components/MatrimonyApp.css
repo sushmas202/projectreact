@@ -1,0 +1,44 @@
+/* App container */
+.App {
+    text-align: center;
+  }
+  
+  /* Profile form container */
+  .ProfileForm {
+    margin-bottom: 20px;
+  }
+  
+  /* Profile form input fields */
+  .ProfileForm input {
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Profile form submit button */
+  .ProfileForm button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Profile list container */
+  .ProfileList {
+    text-align: left;
+  }
+  
+  /* Profile list items */
+  .ProfileList li {
+    margin-bottom: 10px;
+    list-style-type: none;
+  }
+  
+  /* Profile list item text */
+  .ProfileList li strong {
+    font-weight: bold;
+    margin-right: 5px;
+  }
